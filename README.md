@@ -100,4 +100,3 @@ URL に`/v1/chat`が必要
 
 - [Welcome to IBM watsonx Orchestrate Agent Development Kit - IBM watsonx Orchestrate ADK](https://developer.watson-orchestrate.ibm.com/)
 - [watsonx-orchestrate-developer-toolkit/external_agent/examples/langgraph_python/README.md at main · watson-developer-cloud/watsonx-orchestrate-developer-toolkit](https://github.com/watson-developer-cloud/watsonx-orchestrate-developer-toolkit/blob/main/external_agent/examples/langgraph_python/README.md) (旧 wxo でのみ動く)
-# hello-ibm-agent-connect
